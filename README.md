@@ -27,5 +27,5 @@
 
 ## Example Video
 Download and check the example video. Robot draws a rectangle.
-![Example Video](https://github.com/PrajwalSangam1310/kinova_gui/blob/main/video/example_video.mp4)
-
+![Example Video 1](https://github.com/PrajwalSangam1310/kinova_gui/blob/main/video/example_video.mp4)
+![Example Video 2](https://github.com/Saharsh2061/B.Tech-Project/blob/main/Rectangle_Manipulator_Drawing.mp4)
