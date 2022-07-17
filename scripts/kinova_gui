@@ -1,0 +1,10 @@
+#!/usr/bin/env python3
+
+import sys
+
+from kinova_gui.my_module2 import MyPlugin
+from rqt_gui.main import Main
+
+plugin = 'kinova_gui'
+main = Main(filename=plugin)
+sys.exit(main.main(standalone=plugin))
