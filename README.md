@@ -2,9 +2,9 @@
 
 ## Installation
 
-- clone the [kinova_ros](https://github.com/Kinovarobotics/kinova-ros) package in your workspace.
-- clone this package.
-- build it in your workspace.
+- Clone the [kinova_ros](https://github.com/Kinovarobotics/kinova-ros) package in your workspace.
+- Clone this package.
+- Build it in your workspace.
 
 ## GUI
 ![GUI](https://github.com/PrajwalSangam1310/kinova_gui/blob/main/images/labelled_image.png)
@@ -27,5 +27,5 @@
 
 ## Example Video
 Download and check the example video. Robot draws a rectangle.
-![example video](https://github.com/PrajwalSangam1310/kinova_gui/blob/main/video/example_video.mp4)
+![Example Video](https://github.com/PrajwalSangam1310/kinova_gui/blob/main/video/example_video.mp4)
 
